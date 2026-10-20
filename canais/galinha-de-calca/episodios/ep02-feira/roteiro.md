@@ -1,4 +1,4 @@
-# EP 01 — Cleide na feira
+# EP 02 — Cleide na feira
 
 - **Formato:** Flagra
 - **Duração-alvo:** ~16 s (2 clipes de 8 s)

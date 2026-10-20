@@ -58,6 +58,9 @@ Use `references/episodio-template.md`. O pacote tem:
 3. **Prompts de imagem âncora** (Nano Banana), um por cena, independentes entre si.
 4. **Prompts de vídeo** (Veo), um por cena, dizendo o modo do Flow (Ingredientes, Frames ou Texto), a ação, a câmera, o áudio e as falas.
 5. Plano de edição no CapCut, texto na tela, legenda do post, hashtags e checklist de publicação (inclusive o **rótulo de conteúdo de IA**).
+6. **Checagem de viralização** (`references/viralizacao.md`): as 8 checagens em tabela. Se uma falhar, reescreva antes de entregar.
+
+Antes de escrever, use a skill **creative-director** (quando disponível) para testar a ideia: ela diz o que é a cena em uma frase? A calça/o personagem é o assunto, ou aparece de passagem? Tem exatamente uma virada? Mate a ideia fraca cedo e diga ao usuário por quê.
 
 ### E. Revisão (loop de correção)
 Quando o usuário mandar prints ou clipes gerados:

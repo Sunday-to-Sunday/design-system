@@ -94,7 +94,8 @@ São João, Carnaval, Copa, Dia das Mães, Natal, volta às aulas, Black Friday.
 Marque `[x]` quando virar episódio.
 
 **Flagras (curtos)**
-- [ ] Na feira, escolhendo milho na banca e o feirante negociando com ela → **EP01**
+- [x] No provador da loja de jeans, comprando a calça (episódio de origem) → **EP01**
+- [ ] Na feira, escolhendo milho na banca e o feirante negociando com ela → **EP02**
 - [ ] Na fila da lotérica, olhando o relógio
 - [ ] Subindo no ônibus lotado e o motorista deixando passar
 - [ ] Atravessando na faixa de pedestres com os carros parados
@@ -161,7 +162,8 @@ Marque `[x]` quando virar episódio.
 
 | EP | Título | Formato | Status | Views 48h | Retenção | Pacote |
 |---|---|---|---|---|---|---|
-| 01 | Cleide na feira | Flagra | roteiro pronto | — | — | [roteiro](episodios/ep01-feira/roteiro.md) |
+| 01 | O provador | Flagra | roteiro pronto | — | — | [roteiro](episodios/ep01-provador/roteiro.md) |
+| 02 | Cleide na feira | Flagra | roteiro pronto | — | — | [roteiro](episodios/ep02-feira/roteiro.md) |
 
 ## 12. Referências modeladas
 
