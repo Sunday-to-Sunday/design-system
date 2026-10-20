@@ -36,8 +36,20 @@ Um vídeo pode combinar modelos; registre o principal e os secundários.
 - Avatares/vozes que imitam pessoas reais ou celebridades.
 - Lives "IA 24h" ou conteúdo em massa repetitivo — risco de spam/conteúdo não original. **[verificar]**
 - Esconder que o conteúdo é gerado por IA quando ele parece real.
+- "Investimento de menos de R$ 100" à base de **contas de ferramentas revendidas** (GGMax, GameMarket, "conta compartilhada", "12 meses por R$ 10") ou de **truques com teste grátis** (cartão emprestado, cartão virtual de 24h). Isso viola os termos de uso ou é fraude de cobrança: separe do método e refaça o orçamento com assinaturas oficiais.
+- "Subir conta" com **personas falsas** que falam com o espectador como se fossem pessoas reais ("gravei um áudio pra você, me segue"), mirando público idoso ou carente. É engano: fica fora do plano, mesmo que funcione.
 - Link de curso/mentoria/afiliado de ferramenta na descrição (não invalida o método, mas explica o viés).
 - Vídeo antigo (> 12 meses) sobre regra de plataforma — provavelmente desatualizado.
+
+## Vocabulário de produção de vídeo com IA
+
+Termos que aparecem nos tutoriais e que valem registrar no passo a passo:
+- **Imagem âncora:** cada imagem gerada que vira um clipe animado. Um vídeo bom tem de 12 a 20.
+- **Técnica A/B (frames):** gerar o frame inicial e o final e pedir ao gerador de vídeo que anime entre os dois.
+- **Multishot:** um prompt de vídeo que gera vários planos/cortes numa mesma geração.
+- **Prompt independente:** cada prompt de cena precisa estar completo, sem depender dos outros.
+- **Modelar:** reproduzir a estrutura de um vídeo que deu certo trocando personagens, diálogos e ângulo.
+- **Formato:** estrutura narrativa que se repete entre vídeos virais ("Divisão", "Caga ouro"…).
 
 ## Sinais de qualidade
 

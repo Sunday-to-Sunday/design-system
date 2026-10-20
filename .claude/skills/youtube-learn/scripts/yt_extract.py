@@ -87,11 +87,21 @@ class _SilentLogger:
 
 def fetch_metadata(vid: str) -> dict:
     """Metadados completos via yt-dlp; se o YouTube bloquear, cai para o oEmbed (só título e canal)."""
+    url = f"https://www.youtube.com/watch?v={vid}"
     try:
         with ydl() as y:
-            info = y.extract_info(f"https://www.youtube.com/watch?v={vid}", download=False)
+            info = y.extract_info(url, download=False)
     except Exception as e:
-        return fetch_oembed(vid, reason=str(e).splitlines()[0])
+        # O cliente do player embutido costuma escapar do "confirme que não é um robô" em IPs de nuvem.
+        # Ele não traz formatos de vídeo, mas traz descrição, números e legendas, que é o que importa aqui.
+        try:
+            with ydl({
+                "ignore_no_formats_error": True,
+                "extractor_args": {"youtube": {"player_client": ["web_embedded"]}},
+            }) as y:
+                info = y.extract_info(url, download=False)
+        except Exception:
+            return fetch_oembed(vid, reason=str(e).splitlines()[0])
     upload = info.get("upload_date")
     return {
         "id": vid,
