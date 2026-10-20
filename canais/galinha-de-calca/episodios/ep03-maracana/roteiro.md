@@ -92,6 +92,13 @@ No logos, no crests, no sponsors, no readable text, no flares, no cartoon, no 3D
 cinematic lighting, the hen never stands upright like a human, no watermark.
 ```
 
+## Ordem de geração (aprendizado do rixardê: a física difícil primeiro)
+
+1. **Cena 3 primeiro** (ela pulando para o ombro do torcedor na explosão da torcida): é a mais difícil. Se não sair boa em 2 tentativas, troque a ação por ela batendo as asas em cima da cadeira enquanto todo mundo pula, e siga.
+2. Depois a cena 2, e por último a cena 1, que é a mais fácil.
+
+**Plano de ligação (opcional, se sobrar crédito):** entre a rampa e a arquibancada, 2 s dela passando por baixo da catraca, filmada pelo torcedor de trás. Deixa o vídeo com cara de sequência, não de clipes soltos.
+
 ## Vídeos (Veo · 9:16)
 
 **Modo:** **Frames para vídeo**, com a imagem âncora como quadro inicial; anexe `cleide-perfil.png` como ingrediente, se o Flow permitir. Uma geração por cena; refaça só se a camisa ganhar escudo ou texto, ou se a calça ou a Cleide mudarem.

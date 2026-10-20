@@ -64,6 +64,11 @@ No cartoon, no 3D render look, no cinematic lighting, no human hands on the hen,
 upright like a human, no readable text, no logos, no watermark.
 ```
 
+## Ordem de geração (aprendizado do rixardê: a física difícil primeiro)
+
+1. **Cena 2 primeiro** (o pulinho com a prancha subindo e ela caindo de volta em cima): é a física mais difícil. Se depois de 2 tentativas a prancha ou a galinha "derreterem", use a técnica A/B: gere uma segunda imagem com ela **já pousada** no skate depois do pulo e use as duas em Frames (início e fim). Se ainda assim não sair, tire o pulinho e mantenha só ela rolando até parar e descendo.
+2. Depois a cena 1.
+
 ## Vídeos (Veo · 9:16)
 
 **Modo:** **Frames para vídeo**, com a âncora como quadro inicial; anexe também `cleide-perfil.png` como ingrediente, se o Flow permitir, para segurar a calça. Gere 2 vezes a cena 1 (é a mais difícil) e 1 vez a cena 2.
