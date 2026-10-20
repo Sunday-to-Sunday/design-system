@@ -1,5 +1,7 @@
 # BIBLIA — Um Dia Em (nome provisório)
 
+> **Pausado em 2026-10-20:** o usuário achou o formato real demais. O canal ativo é [`canais/galinha-de-calca`](../galinha-de-calca/BIBLIA.md).
+
 > Documento-mestre do canal. Itens marcados com **[decidir]** esperam uma escolha sua.
 
 ## 1. A ideia em uma frase
