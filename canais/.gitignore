@@ -1,0 +1,4 @@
+# Vídeos são grandes demais para o git: ficam só na máquina/Drive.
+*.mp4
+*.mov
+*.webm
