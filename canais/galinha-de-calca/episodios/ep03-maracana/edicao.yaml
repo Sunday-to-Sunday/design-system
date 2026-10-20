@@ -1,0 +1,18 @@
+# Edição do EP03 (Dia de Maracanã). Salve os clipes do Flow como clipes/cena1.mp4, cena2.mp4 e cena3.mp4.
+# Montar: python3 .claude/skills/estudio-ia/scripts/montar.py canais/galinha-de-calca/episodios/ep03-maracana/edicao.yaml
+saida: final.mp4
+clipes:
+  - arquivo: clipes/cena1.mp4      # rampa do Maracanã
+    fim: 6
+  - arquivo: clipes/cena2.mp4      # arquibancada, asas no ritmo
+    fim: 7
+  - arquivo: clipes/cena3.mp4      # explosão, ombro do torcedor, sai pela fileira (inteira)
+textos:
+  - texto: "hoje tem Maracanã 🖤🤍"
+    inicio: 0
+    fim: 3
+marca_dagua:
+  texto: "@cleideformosa"
+  momentos: [[4, 7], [15, 18]]
+audio:
+  normalizar: true
