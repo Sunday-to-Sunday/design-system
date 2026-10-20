@@ -103,7 +103,10 @@ hen's clucks and wordless reactions. No cartoon, no slow motion, no human hands 
 stands upright like a human.
 ```
 
-## Edição (CapCut)
+## Edição
+
+A edição está pronta em [`edicao.yaml`](edicao.yaml): salve os clipes do Flow em `clipes/` como `cena1.mp4`, `cena2.mp4`… e o Claude monta o `final.mp4` com o `montar.py`. As notas abaixo explicam as escolhas (e servem se você preferir editar à mão).
+
 
 - **Cortes:** cena 1 inteira (8 s) + cena 2 do segundo 0 ao ~6, cortando **no momento em que ela sai do quadro** e o skate segue sozinho. O corte seco faz o vídeo recomeçar com ela no alto da rampa.
 - **Velocidade:** 1,0×.

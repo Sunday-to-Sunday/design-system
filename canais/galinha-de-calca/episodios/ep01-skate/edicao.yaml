@@ -1,0 +1,16 @@
+# Edição do EP01 (Skate). Salve os clipes do Flow como clipes/cena1.mp4 e clipes/cena2.mp4.
+# Montar: python3 .claude/skills/estudio-ia/scripts/montar.py canais/galinha-de-calca/episodios/ep01-skate/edicao.yaml
+saida: final.mp4
+clipes:
+  - arquivo: clipes/cena1.mp4      # desce a rampa e atravessa a pista
+  - arquivo: clipes/cena2.mp4      # pulinho, desce e sai; cortar quando ela sai do quadro
+    fim: 6
+textos:
+  - texto: "treino de terça"       # o ✨ vai na legenda do post (emoji não aparece no vídeo)
+    inicio: 0
+    fim: 3
+marca_dagua:
+  texto: "@galinhadecalca"         # trocar pelo @ definitivo
+  momentos: [[3, 6], [9, 12]]
+audio:
+  normalizar: true

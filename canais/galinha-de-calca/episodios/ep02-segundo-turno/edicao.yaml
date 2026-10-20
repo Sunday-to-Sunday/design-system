@@ -1,0 +1,18 @@
+# Edição do EP02 (Segundo turno). Salve os clipes do Flow como clipes/cena1.mp4, cena2.mp4 e cena3.mp4.
+# Montar: python3 .claude/skills/estudio-ia/scripts/montar.py canais/galinha-de-calca/episodios/ep02-segundo-turno/edicao.yaml
+saida: final.mp4
+clipes:
+  - arquivo: clipes/cena1.mp4      # corredor, até ela entrar na sala
+    fim: 6
+  - arquivo: clipes/cena2.mp4      # mesa do mesário, até ela ir para a cabine
+    fim: 6
+  - arquivo: clipes/cena3.mp4      # cabine, bipe final, sai comemorando (inteira)
+textos:
+  - texto: "eu domingo:"
+    inicio: 0
+    fim: 3
+marca_dagua:
+  texto: "@galinhadecalca"         # trocar pelo @ definitivo
+  momentos: [[4, 7], [14, 17]]
+audio:
+  normalizar: true

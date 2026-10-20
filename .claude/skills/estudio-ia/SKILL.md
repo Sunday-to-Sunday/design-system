@@ -26,6 +26,12 @@ pip install -r .claude/skills/estudio-ia/scripts/requirements.txt   # primeira v
 python3 .claude/skills/estudio-ia/scripts/video_map.py URL --out canais/<canal>/referencias/<nome>
 ```
 
+```bash
+python3 .claude/skills/estudio-ia/scripts/montar.py canais/<canal>/episodios/epNN-<slug>/edicao.yaml [--previa]
+```
+
+O `montar.py` substitui a edição no CapCut: lê o `edicao.yaml` do episódio (clipes, cortes, velocidade, enquadramento, texto na tela, marca d'água, trilha) e exporta o `final.mp4` em 1080x1920, 30 fps, H.264, com volume normalizado a -14 LUFS. Todo pacote de episódio deve vir com o `edicao.yaml` ao lado do `roteiro.md`. Emojis não aparecem no texto da tela; deixe-os para a legenda. Depois de montar, extraia 3 ou 4 quadros com o ffmpeg e olhe (ferramenta Read) antes de entregar.
+
 O `video_map.py` baixa o vídeo (TikTok, Shorts, Reels ou arquivo local), detecta os cortes, salva um quadro por cena, monta a `contato.jpg` numerada e transcreve as falas com o Whisper local. O resultado fica em `mapa.md`.
 
 Se o download falhar, peça ao usuário para baixar o vídeo e mandar o arquivo; o script também aceita caminho local.

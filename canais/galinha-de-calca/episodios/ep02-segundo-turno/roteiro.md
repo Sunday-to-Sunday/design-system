@@ -147,7 +147,10 @@ numbers, no readable text. No cartoon, no slow motion, no human hands on the hen
 upright like a human.
 ```
 
-## Edição (CapCut)
+## Edição
+
+A edição está pronta em [`edicao.yaml`](edicao.yaml): salve os clipes do Flow em `clipes/` como `cena1.mp4`, `cena2.mp4`… e o Claude monta o `final.mp4` com o `montar.py`. As notas abaixo explicam as escolhas (e servem se você preferir editar à mão).
+
 
 - **Cortes:** cena 1 do segundo 0 ao ~6 (até ela entrar na sala), cena 2 do segundo 0 ao ~6 (até ela descer da mesa e ir para a cabine), cena 3 inteira. O bipe longo é o clímax: não corte perto dele. Termine quando ela sai pela porta; o vídeo recomeça com ela no corredor.
 - **Velocidade:** 1,0×.
