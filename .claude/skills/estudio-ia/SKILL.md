@@ -58,7 +58,7 @@ Use `references/episodio-template.md`. O pacote tem:
 3. **Prompts de imagem âncora** (Nano Banana), um por cena, independentes entre si.
 4. **Prompts de vídeo** (Veo), um por cena, dizendo o modo do Flow (Ingredientes, Frames ou Texto), a ação, a câmera, o áudio e as falas.
 5. Plano de edição no CapCut, texto na tela, legenda do post, hashtags e checklist de publicação (inclusive o **rótulo de conteúdo de IA**).
-6. **Checagem de viralização** (`references/viralizacao.md`): as 8 checagens em tabela. Se uma falhar, reescreva antes de entregar.
+6. **Checagem de viralização** (`references/viralizacao.md`): as 8 checagens em tabela. Se uma falhar, reescreva antes de entregar. Para o gancho use a skill `viral-hooks` (gere de 3 a 6 opções de tipos diferentes e escolha); para o tamanho, a meta de conclusão e o vídeo longo, use a `viral-tiktok-content` (inclusive `assets/long-tiktok-template.md` nos vídeos de 60 s ou mais).
 
 Antes de escrever, use a skill **creative-director** (quando disponível) para testar a ideia: ela diz o que é a cena em uma frase? A calça/o personagem é o assunto, ou aparece de passagem? Tem exatamente uma virada? Mate a ideia fraca cedo e diga ao usuário por quê.
 

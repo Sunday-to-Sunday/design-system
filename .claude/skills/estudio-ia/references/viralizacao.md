@@ -15,16 +15,38 @@ Passe todo roteiro por esta lista antes de entregar e registre a tabela no fim d
 7. **Isca de comentário natural.** Uma pergunta que o público faz sozinho ("e a etiqueta?", "pra onde ela vai agora?"). Nunca "comenta aí".
 8. **Assinatura do canal.** O mesmo gesto de fechamento em todo vídeo (a Cleide bicando a lente), para virar marca.
 
-## Duração por fase
+## Duração por fase e meta de conclusão
 
-- **Crescimento:** 8 a 20 s. Curto aumenta a taxa de conclusão.
-- **Monetização:** acima de 60 s (exigência do programa). Para segurar a retenção num vídeo longo, faça minicapítulos de cerca de 10 s, cada um com sua própria virada, e um gancho verbal ou visual no começo prometendo o final.
+Metas de trabalho da skill `viral-tiktok-content` (estimativas de mercado, não números oficiais):
+
+| Duração | Meta de conclusão | O que exige |
+|---|---|---|
+| até 15 s | acima de 100% | O vídeo precisa recomeçar sozinho (loop) |
+| 15–30 s | ~70% | Faixa ideal para crescer |
+| 30–60 s | ~50% | Um "re-gancho" no meio |
+| 60 s ou mais | ~40% | Dois re-ganchos (por volta de 25 s e de 60 s) com mudança visual, e o resultado mostrado, não dito. É a faixa do programa de recompensas |
+
+- **Crescimento:** 8 a 30 s.
+- **Monetização:** 60 s ou mais, só quando a história tiver mesmo esse tamanho. Esticar um vídeo de 30 s para 60 s derruba a conclusão e não paga. Faça a versão longa dos curtos que mais funcionaram, sem repostar o mesmo vídeo nas duas durações em poucos dias.
+
+## Gancho em três camadas
+
+No primeiro segundo, três camadas trabalham juntas (skill `viral-hooks`): **imagem** (a Cleide de calça já no quadro), **som/fala** (a primeira fala ou o som mais estranho) e **texto na tela** (3 a 6 palavras que acrescentam algo). O gancho tem de funcionar com o som desligado. Antes de escolher, escreva de 3 a 6 ganchos de tipos diferentes e fique com o melhor; se nenhum sair fácil, a ideia é que está fraca.
+
+## Post
+
+- A primeira frase da legenda é o que mais pesa na busca: comece por palavras que alguém digitaria ("galinha de calça jeans…").
+- De 3 a 5 hashtags específicas. Nada de #fyp, #viral.
+- Nada de "segue para mais" ou "curte e compartilha": o TikTok trata como isca de engajamento.
+- Conta pessoal (Creator), nunca comercial: a conta comercial não entra no programa de recompensas e perde os sons em alta.
+- Não apague vídeo que foi mal: arquive. O TikTok pode testar de novo.
 
 ## Depois de postar (48 h)
 
 Anote no `roteiro.md`: % que passou dos 3 s, % que assistiu até o fim, repetições, compartilhamentos e salvamentos, e onde o gráfico de retenção cai. A queda mostra o segundo exato a reescrever no próximo episódio.
 
 ## Fontes
+- Skills `viral-tiktok-content` e `viral-hooks` (Vyral, MIT), instaladas em `.claude/skills/`
 - [Darkroom: how TikTok's algorithm works in 2026](https://www.darkroomagency.com/observatory/how-tiktok’s-algorithm-works-in-2026-and-15-tactics-to-go-viral)
 - [InfluenceFlow: TikTok audience retention tips 2026](https://influenceflow.io/resources/tiktok-audience-retention-tips-how-to-keep-viewers-hooked-in-2026/)
 - [ShortsFast: hooks and retention 2026](https://shortsfast.com/blog/faceless-shorts-hooks-retention-2026/)

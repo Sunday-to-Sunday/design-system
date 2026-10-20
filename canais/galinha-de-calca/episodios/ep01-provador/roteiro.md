@@ -22,6 +22,8 @@ A tensão que carrega o vídeo: o mundo trata a Cleide como cliente exigente, co
 
 **Texto na tela (0–3 s):** `48 lojas depois.` O texto não repete a imagem: conta que ela procurou essa calça a vida inteira, e transforma o flagra em fim de uma saga.
 
+**Ganchos considerados (skill `viral-hooks`):** "48 lojas depois." (o escolhido: cria uma saga em 3 palavras) · "achou a calça certa" (descreve a imagem: descartado) · "ela vai pagar como?" (bom, mas entrega a piada final) · nenhum texto (perde quem assiste sem som).
+
 **O detalhe para rever:** a etiqueta de preço pendurada no cinto aparece nas três cenas e ninguém tira. Quem percebe volta para conferir e comenta. Comentário garantido: "e a etiqueta?".
 
 ## Imagens âncora (Nano Banana · 9:16 · anexar `cleide-frente.png` e `cleide-34.png`)
@@ -155,8 +157,8 @@ The hen does not talk. No music, no subtitles, no text on screen.
 
 ## Post
 
-- **Legenda:** `parcelou em 3x sem juros`
-- **Hashtags:** `#cleide #galinha #calcajeans #humor #brasil #ia` (são 6; testar trocas a partir do 3º vídeo)
+- **Legenda:** `galinha de calça jeans parcelou em 3x sem juros` (a primeira frase é o que a busca do TikTok lê; começa pelo que alguém digitaria)
+- **Hashtags (5):** `#galinha #calcajeans #humor #videoia #cleide`
 - **Fixar comentário (do próprio perfil):** `ela vai usar essa calça pra tudo agora`. Prepara o público para a série e puxa "pra onde ela vai?".
 - **Checklist:**
   - [ ] rótulo "conteúdo gerado por IA" ativado
@@ -176,6 +178,7 @@ The hen does not talk. No music, no subtitles, no text on screen.
 | Final que recomeça | Bicada na lente, corte seco, volta para a cortina |
 | Isca de comentário natural | "e a etiqueta?", "pagou como?" |
 | Assinatura do canal | Close da Cleide bicando a lente |
+| Meta de conclusão | 18–20 s → faixa de 15–30 s, meta de ~70% de conclusão; o loop ajuda a passar disso |
 
 ## Resultado (preencher depois de 48 h)
 
