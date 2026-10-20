@@ -124,6 +124,7 @@ Marque `[x]` quando virar episódio. Entre parênteses, o adereço sugerido.
 - [ ] São João: pulando a fogueira cenográfica e dançando quadrilha
 - [ ] Copa: torcendo no telão da praça (fitinha verde e amarela)
 - [ ] Ano Novo na praia, pulando as sete ondas
+- [x] Eleição: entra na sala de votação, passa pelo mesário, vota atrás da cabine e sai comemorando → **EP02**
 
 ## 8. Identidade do perfil **[decidir]**
 
@@ -151,12 +152,14 @@ Marque `[x]` quando virar episódio. Entre parênteses, o adereço sugerido.
 - Trilha só da biblioteca do TikTok/CapCut.
 - Sem marcas, logos ou pessoas reconhecíveis.
 - Guardar a pasta de cada episódio (prova de originalidade).
+- **Datas cívicas e eleições:** zero política (nenhum candidato, partido, número, cor de campanha, adesivo), processo mostrado do jeito certo, nada que sugira fraude, informação verdadeira na legenda.
 
 ## 11. Episódios
 
 | EP | Título | Formato | Adereço | Status | Views 48h | Conclusão | Pacote |
 |---|---|---|---|---|---|---|---|
 | 01 | Skate | Flagra absurdo | — | roteiro pronto | — | — | [roteiro](episodios/ep01-skate/roteiro.md) |
+| 02 | Segundo turno (postar sáb. 24/10) | Flagra absurdo (data) | — | roteiro pronto | — | — | [roteiro](episodios/ep02-segundo-turno/roteiro.md) |
 
 **Arquivados:** "A faixa" e "A feira" (`episodios/_arquivo/`) eram da fase "só plausível" e ficaram reais demais. "O provador" foi descartado antes, por depender de fala.
 
