@@ -70,11 +70,12 @@ Quando o usuário mandar prints ou clipes gerados:
 
 ## Regras de produção
 
-- **Prompts em inglês, falas em português do Brasil** entre aspas, com "Brazilian Portuguese" explícito. O Veo segue melhor instruções em inglês.
+- **Prompts em inglês.** O Veo segue melhor instruções em inglês. Se o canal tiver fala, escreva as falas em português do Brasil entre aspas, com "Brazilian Portuguese" explícito. Se o canal for **sem fala** (veja a BIBLIA), todo prompt de vídeo termina com `No dialogue, nobody speaks, no voice-over, no music, no subtitles, background voices only as an unintelligible murmur`, e o checklist do post manda ouvir com fone e cortar qualquer palavra que o Veo tenha colocado.
 - **Cada prompt é independente:** nada de "como na cena anterior". Repita personagem, cenário, luz e estilo em todos.
 - **9:16 vertical** em tudo.
 - **Uma ação principal por clipe de 8 s.** Ação demais vira bagunça.
 - Mantenha a lista de descritores visuais fixos do personagem e a "lista de proibidos" da BIBLIA em todo prompt.
-- Escreva as falas você mesmo, curtas e naturais; diálogo genérico é o que entrega vídeo feito por IA.
+- Se houver fala, escreva você mesmo, curta e natural; diálogo genérico é o que entrega vídeo feito por IA.
+- Se o canal quer parecer real, rode o "teste do é real?" da BIBLIA em todo episódio: o personagem só faz o que faria na vida real, a câmera é de gente comum (celular, câmera de segurança, câmera de carro) e nada é bonito demais.
 - Antes de entregar, confira: o vídeo final passa de 1 minuto? (só quando a conta já estiver monetizando) Tem gancho nos 2 primeiros segundos? Tem o rótulo de IA no checklist?
 - Atualize o banco de ideias e a lista de episódios da BIBLIA a cada episódio produzido, anotando o que funcionou quando o usuário trouxer números.

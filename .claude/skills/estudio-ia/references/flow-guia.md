@@ -38,6 +38,7 @@ Mode: Ingredients (refs: character front, character 3/4, [scene image])   ← di
 ```
 
 - **Falas:** escreva a frase exata entre aspas, diga quem fala e em que idioma. Uma ou duas falas curtas por clipe.
+- **Sem fala:** o Veo tende a inventar vozes. Diga explicitamente `No dialogue, nobody speaks, no voice-over` e descreva só os sons do ambiente. Mesmo assim, ouça com fone: se escapar uma palavra, corte o trecho ou abaixe o volume na edição.
 - **Sem música no Flow:** a trilha entra no CapCut, para poder trocar sem regenerar.
 - **Sem texto gerado:** legendas e títulos vão no CapCut; texto gerado sai com erro.
 
@@ -48,7 +49,11 @@ Mode: Ingredients (refs: character front, character 3/4, [scene image])   ← di
 3. No vídeo, use **Ingredientes** com 2 imagens da ficha + a âncora da cena, ou **Frames** com a âncora como quadro inicial.
 4. Se a calça ou as penas "derivarem" (mudar cor, comprimento, virar shorts), refaça a âncora antes de gastar crédito em vídeo.
 
-## Realismo
+## Realismo ("parece real")
+
+- Gêneros de câmera que o público lê como verdade: celular de quem passava, câmera de segurança (CFTV), câmera de carro (dashcam). Peça compressão, enquadramento imperfeito, horizonte torto, foco que procura.
+- Carimbo de data e hora: coloque no CapCut, nunca no prompt (texto gerado sai errado).
+- Dashcam e CFTV são horizontais: gere em 16:9 e monte numa tela 9:16 com fundo preto, como repost.
 
 - Peça "smartphone footage" ou "amateur phone video" + "handheld": vídeo de celular parece flagrante real e esconde imperfeições.
 - Animais reais se mexem de jeito próprio: descreva os movimentos de galinha (cabeça indo e voltando, ciscar, passos rápidos, arrepiar as penas) e proíba gestos humanos.
