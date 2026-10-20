@@ -1,5 +1,7 @@
 # BIBLIA — Galinha de Calça Jeans
 
+> **Arquivado em 2026-10-20** a pedido do usuário. Mantido só como referência; o canal ativo é [`canais/um-dia-em`](../um-dia-em/BIBLIA.md).
+
 > Documento-mestre do canal. Tudo que for produzido segue isto aqui. Itens marcados com **[decidir]** esperam uma escolha sua.
 
 ## 1. Premissa
