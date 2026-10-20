@@ -6,7 +6,7 @@ clipes:
   - arquivo: clipes/cena2.mp4      # pulinho, desce e sai; cortar quando ela sai do quadro
     fim: 6
 textos:
-  - texto: "treino de terça"       # o ✨ vai na legenda do post (emoji não aparece no vídeo)
+  - texto: "treino de terça ✨"
     inicio: 0
     fim: 3
 marca_dagua:

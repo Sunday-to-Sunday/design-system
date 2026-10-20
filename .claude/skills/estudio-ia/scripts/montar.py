@@ -33,7 +33,9 @@ Exemplo de edicao.yaml (caminhos relativos à pasta do yaml):
     trilha: null       # caminho de um mp3/m4a da biblioteca, opcional
     trilha_db: -20
 
-Emojis não aparecem no texto da tela (a fonte não tem): deixe-os para a legenda do post.
+Texto da tela: se o Playwright e um Chromium estiverem instalados, cada texto é renderizado em HTML
+(emoji colorido + animação de entrada e saída, via texto_html.py). Sem eles, cai no drawtext do
+ffmpeg, que não mostra emoji. Para forçar o modo simples: `estilo: simples` no texto.
 """
 
 from __future__ import annotations
@@ -46,6 +48,9 @@ import subprocess
 import sys
 import tempfile
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import texto_html  # noqa: E402
 
 try:
     import yaml
@@ -142,11 +147,27 @@ def montar(spec_path: Path, previa: bool) -> Path:
     n = len(clipes)
     filtros.append("".join(f"[v{i}][a{i}]" for i in range(n)) + f"concat=n={n}:v=1:a=1[vcat][acat]")
 
-    # Textos e marca d'água (via textfile=, que evita os problemas de escape do drawtext).
-    camadas = "[vcat]"
+    # Textos: em HTML (emoji + animação) quando possível; senão drawtext do ffmpeg.
+    chromium = texto_html.disponivel()
     ultimo = "vcat"
-    desenhos = []
+    textos_simples = []
+    k_in = n
     for j, t in enumerate(spec.get("textos") or []):
+        ini_t, fim_t = float(t.get("inicio", 0)), float(t.get("fim", 3))
+        if chromium and t.get("estilo", "animado") != "simples":
+            padrao = texto_html.renderizar(t["texto"], fim_t - ini_t, t.get("posicao", "topo"),
+                                           int(t.get("tamanho", 64)), tmp / f"html{j}", chromium)
+            inputs += ["-framerate", str(FPS), "-i", str(padrao)]
+            filtros.append(f"[{k_in}:v]setpts=PTS-STARTPTS+{ini_t}/TB[ov{j}]")
+            filtros.append(f"[{ultimo}][ov{j}]overlay=0:0:eof_action=pass[vt{j}]")
+            ultimo = f"vt{j}"
+            k_in += 1
+        else:
+            textos_simples.append(t)
+
+    # Texto simples e marca d'água (via textfile=, que evita os problemas de escape do drawtext).
+    desenhos = []
+    for j, t in enumerate(textos_simples):
         texto = EMOJI.sub("", t["texto"]).strip()
         if texto != t["texto"].strip():
             print(f"aviso: emoji removido do texto da tela: {t['texto']!r}", file=sys.stderr)
@@ -169,7 +190,7 @@ def montar(spec_path: Path, previa: bool) -> Path:
                 f"enable='between(t,{float(a)},{float(b)})'"
             )
     if desenhos:
-        filtros.append(f"{camadas}{','.join(desenhos)}[vout]")
+        filtros.append(f"[{ultimo}]{','.join(desenhos)}[vout]")
         ultimo = "vout"
 
     # Áudio: trilha opcional + normalização.
@@ -179,8 +200,7 @@ def montar(spec_path: Path, previa: bool) -> Path:
     if trilha:
         tr = (base / trilha).resolve()
         inputs += ["-stream_loop", "-1", "-i", str(tr)]
-        k = n
-        filtros.append(f"[{k}:a]aresample=48000,aformat=channel_layouts=stereo,"
+        filtros.append(f"[{k_in}:a]aresample=48000,aformat=channel_layouts=stereo,"
                        f"volume={float(audio.get('trilha_db', -20))}dB[trilha]")
         filtros.append("[acat][trilha]amix=inputs=2:duration=first:dropout_transition=0[amix]")
         a_final = "amix"

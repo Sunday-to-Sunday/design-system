@@ -3,3 +3,4 @@ curl_cffi        # o TikTok exige "impersonation" no download
 faster-whisper   # transcrição local das falas
 numpy
 pyyaml           # edicao.yaml do montar.py
+playwright       # texto da tela em HTML (emoji + animação); usa o Chromium do sistema
