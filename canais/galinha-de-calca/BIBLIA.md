@@ -169,7 +169,14 @@ Marque `[x]` quando virar episódio. Entre parênteses, o adereço sugerido.
 
 **Arquivados:** "A faixa" e "A feira" (`episodios/_arquivo/`) eram da fase "só plausível" e ficaram reais demais. "O provador" foi descartado antes, por depender de fala.
 
-## 12. Referências modeladas
+## 12. Rotina de garimpo e teste
+
+- **A conta @cleideformosa só assiste ao nicho** (animais fazendo coisas impossíveis, IA realista, humor de flagra), para o algoritmo aprender e mostrar referências. Salvar 5 links por dia em `referencias/garimpo.md`.
+- **Toda semana:** rodar `perfis.py` nos 3 a 5 perfis de referência (horário, dia, duração, hashtags e os vídeos mais fortes para modelar).
+- **Teste honesto de 10 vídeos** antes de mudar o formato. Se nenhum passar de ~10 mil views e a retenção estiver baixa, mudar primeiro o formato (lugares, esportes, câmera); depois, o personagem.
+- Aprendizados completos do estudo do rixardê: [`APRENDIZADOS-RIXARDE.md`](APRENDIZADOS-RIXARDE.md).
+
+## 13. Referências modeladas
 
 | Referência | Formato | O que aproveitar | Mapa |
 |---|---|---|---|

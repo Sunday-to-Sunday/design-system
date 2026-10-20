@@ -186,7 +186,12 @@ def transcript_via_ytdlp(meta: dict) -> tuple[list[dict], str] | None:
     # as demais chaves são traduções de máquina, então só aceitamos os idiomas preferidos.
     auto_order = (
         ([f"{spoken}-orig", spoken] if spoken else [])
-        + [k for k in auto_keys if k.endswith("-orig")]
+        # Vídeos com dublagem automática têm mais de um "-orig" (ex.: en-US-orig e pt-orig):
+        # ordena pelos idiomas preferidos para pegar o áudio original em português.
+        + sorted(
+            (k for k in auto_keys if k.endswith("-orig")),
+            key=lambda k: LANGS.index(k[:-5]) if k[:-5] in LANGS else len(LANGS),
+        )
         + LANGS
     )
     manual_order = LANGS + list(meta["_subtitles"].keys())

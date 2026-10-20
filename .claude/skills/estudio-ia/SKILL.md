@@ -32,6 +32,12 @@ python3 .claude/skills/estudio-ia/scripts/montar.py canais/<canal>/episodios/epN
 
 O `montar.py` substitui a edição no CapCut: lê o `edicao.yaml` do episódio (clipes, cortes, velocidade, enquadramento, texto na tela, marca d'água, trilha) e exporta o `final.mp4` em 1080x1920, 30 fps, H.264, com volume normalizado a -14 LUFS. Todo pacote de episódio deve vir com o `edicao.yaml` ao lado do `roteiro.md`. O texto da tela é renderizado em HTML pelo `texto_html.py` (emoji colorido e animação de entrada e saída) quando há Playwright e um Chromium; sem eles, cai no texto simples do ffmpeg, que não mostra emoji. Depois de montar, extraia 3 ou 4 quadros com o ffmpeg e olhe (ferramenta Read) antes de entregar.
 
+```bash
+python3 .claude/skills/estudio-ia/scripts/perfis.py @perfil1 @perfil2 --out canais/<canal>/referencias/perfis.md
+```
+
+O `perfis.py` lê os metadados dos vídeos de perfis de referência do TikTok e mostra os melhores horários, dias, durações e hashtags dos 25% vídeos mais fortes (força medida em relação à mediana do próprio perfil), além dos 10 mais fortes para modelar. O TikTok às vezes bloqueia listagem de perfis a partir de servidores; se voltar vazio, tente mais tarde ou rode no computador do usuário.
+
 O `video_map.py` baixa o vídeo (TikTok, Shorts, Reels ou arquivo local), detecta os cortes, salva um quadro por cena, monta a `contato.jpg` numerada e transcreve as falas com o Whisper local. O resultado fica em `mapa.md`.
 
 Se o download falhar, peça ao usuário para baixar o vídeo e mandar o arquivo; o script também aceita caminho local.

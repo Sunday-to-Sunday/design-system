@@ -19,6 +19,7 @@ Exemplo de edicao.yaml (caminhos relativos à pasta do yaml):
       velocidade: 1.0  # opcional
       modo: preencher  # preencher (corta as bordas) | caber (faixas pretas, ex.: dashcam 16:9)
       volume_db: 0     # opcional, ajuste do som deste clipe
+      zoom: 1.06       # opcional, aproximação lenta até 106% no fim do clipe (bom para cenas paradas)
   textos:
     - texto: "eu domingo:"
       inicio: 0
@@ -71,6 +72,12 @@ def fonte_padrao() -> str:
         if Path(f).exists():
             return f
     sys.exit("Nenhuma fonte encontrada; informe 'fonte:' no edicao.yaml.")
+
+
+def duracao_de(path: Path) -> float:
+    out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
+                         capture_output=True, text=True).stdout.strip()
+    return float(out or 0)
 
 
 def tem_audio(path: Path) -> bool:
@@ -127,6 +134,12 @@ def montar(spec_path: Path, previa: bool) -> Path:
                         f"pad={W}:{H}:(ow-iw)/2:(oh-ih)/2:black")
         else:
             enquadra = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}"
+        zoom = float(c.get("zoom", 1.0))
+        if zoom > 1.0:
+            # Aproximação lenta ao longo do clipe (dica de edição do rixardê para cenas paradas).
+            dur_clip = (float(fim) if fim is not None else duracao_de(arq)) - ini
+            enquadra += (f",scale=w='trunc({W}*(1+({zoom}-1)*t/{dur_clip:.3f})/2)*2':h=-2:eval=frame,"
+                         f"crop={W}:{H}")
         filtros.append(f"[{i}:v]{enquadra},setsar=1,fps={FPS},setpts=(PTS-STARTPTS)/{vel}[v{i}]")
 
         vol = float(c.get("volume_db", 0))

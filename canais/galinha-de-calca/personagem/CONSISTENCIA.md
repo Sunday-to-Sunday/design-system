@@ -28,9 +28,13 @@ Se um item falhar, **refaça a imagem antes de gerar o vídeo**. Corrigir imagem
 1. **Mesmo modelo de imagem sempre** (Nano Banana no Flow). Trocar de modelo muda a cara dela. Se um dia mudar de ferramenta, refaça e aprove uma ficha nova nela antes de usar.
 2. **Bloco fixo de descrição igual, palavra por palavra**, em todo prompt (já está colado em todos os prompts dos roteiros). Adereço vem **depois** do bloco, nunca no lugar.
 3. **Planos médios.** Cleide pequena, ao longe, perde a identidade; close extremo deforma. Ela deve ocupar de 1/4 a 1/2 da altura do quadro.
-4. **Vídeo sempre a partir da imagem aprovada** (Flow em "Frames para vídeo", com a imagem âncora como quadro inicial). Nunca gerar vídeo com a Cleide só por texto.
+4. **Vídeo sempre a partir da imagem aprovada** (Flow em **"Frames"**, com a imagem âncora como quadro inicial). Nunca gerar vídeo com a Cleide só por texto. **Não use "Elementos/Ingredientes" para o quadro inicial**: nesse modo o Flow só usa a imagem como inspiração e a Cleide pode mudar.
+   - **No máximo 3 referências por cena** (imagens da ficha + cenário). Com mais, a IA mistura quem é quem.
+   - **Ações com começo e fim** (o pulinho no skate, a raquetada): técnica A/B em Frames, com a imagem inicial e a **final**. A final tem de ser o estado em que a ação termina, não um passo intermediário.
+   - **Gere primeiro a cena mais difícil do episódio** (física, movimento rápido). Se ela não sair, repense a cena antes de gastar crédito no resto.
 5. **Clipes curtos (até 8 s).** Quanto mais longo o clipe, mais a personagem "deriva".
-6. **Galeria aprovada:** as melhores imagens âncora de cada episódio vão para `personagem/galeria/`. Elas podem ser usadas como referência extra nos próximos episódios (sempre junto com a ficha, nunca no lugar dela).
+6. **Expressão e ação em toda cena:** uma ação de galinha concreta por clipe (cabeça indo e voltando, arrepiar as penas, olhar de lado, bater asas). Personagem parado parece "IA genérica".
+7. **Galeria aprovada:** as melhores imagens âncora de cada episódio vão para `personagem/galeria/`. Elas podem ser usadas como referência extra nos próximos episódios (sempre junto com a ficha, nunca no lugar dela).
 
 ## 4. Conferência antes de gerar vídeo e antes de postar
 
@@ -45,3 +49,5 @@ python3 .claude/skills/estudio-ia/scripts/comparar.py canais/galinha-de-calca/pe
 ```
 
 Ele monta uma folha com a ficha numa linha e os candidatos (e 3 quadros de cada vídeo) embaixo, para comparar de uma vez.
+
+Origem de várias dessas regras: o estudo do canal do rixardê em [`../APRENDIZADOS-RIXARDE.md`](../APRENDIZADOS-RIXARDE.md).

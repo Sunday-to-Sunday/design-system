@@ -27,6 +27,10 @@ Episódios históricos dramáticos de cerca de 1 minuto, com narração grave, i
 ### Evitar — Dublar áudio de outra pessoa
 Animar personagens sobre cortes virais de comediantes: conteúdo não original e violação de direitos. [Análise](videos/como-fazer-videos-virais-com-ia-pra-monetizar-no-tiktok-pass-wNmsq0rvJpM.md).
 
+## Estudos de canal
+
+- **rixardê** (7 vídeos, 20/10/2026): o que aplicar no canal da Cleide em [`canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md`](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md).
+
 ## Vídeos analisados
 
 | Data | Vídeo | Canal | Modelo | Nota | Análise |
@@ -34,3 +38,9 @@ Animar personagens sobre cortes virais de comediantes: conteúdo não original e
 | 2026-10-20 | [faço R$10K/Mês com IA e vou te ensinar de graça](https://youtu.be/7oIW_OZoYJI) | rixardê | `creator-rewards` | 3/5 | [análise](videos/faco-r-10k-mes-com-ia-e-vou-te-ensinar-de-graca-tudo-que-voc-7oIW_OZoYJI.md) |
 | 2026-10-20 | [Como ganhar muito dinheiro no TikTok com IA (sem aparecer)](https://youtu.be/oo32igqk9gs) | Projeto Renda Digital | `creator-rewards` (história narrada) | 3/5 | [análise](videos/como-ganhar-muito-dinheiro-no-tiktok-com-ia-sem-aparecer-oo32igqk9gs.md) |
 | 2026-10-20 | [Como fazer vídeos virais com IA pra monetizar no TikTok](https://youtu.be/wNmsq0rvJpM) | Yan Pedro | `creator-rewards` (stand-up dublado) | 1/5 | [análise](videos/como-fazer-videos-virais-com-ia-pra-monetizar-no-tiktok-pass-wNmsq0rvJpM.md) |
+| 2026-10-20 | [Te ensinando de graça a fazer vídeos bons com IA](https://youtu.be/3VT4ErWf9G4) | rixardê | estudo do canal | — | [transcrição](videos/raw/te-ensinando-de-graca-a-fazer-videos-bons-com-ia-3VT4ErWf9G4.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
+| 2026-10-20 | [Mostrei meus 10+ canais e como começar do zero](https://youtu.be/x7--wpxaWNE) | rixardê | estudo do canal | — | [transcrição](videos/raw/mostrei-meus-10-canais-e-como-comecar-na-internet-do-zero-x7--wpxaWNE.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
+| 2026-10-20 | [Como modelar qualquer vídeo com o Codex](https://youtu.be/nuOLSnE8XAw) | rixardê | estudo do canal | — | [transcrição](videos/raw/como-modelar-qualquer-video-com-o-codex-nuOLSnE8XAw.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
+| 2026-10-20 | [Qual o melhor horário pra postar no TikTok](https://youtu.be/ArU-uklVH_I) | rixardê | estudo do canal | — | [transcrição](videos/raw/qual-o-melhor-horario-pra-postar-no-tiktok-em-qualquer-nicho-ArU-uklVH_I.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
+| 2026-10-20 | [Saturei o nicho de IA?](https://youtu.be/QO9buC-I1oI) | rixardê | estudo do canal | — | [transcrição](videos/raw/saturei-o-nicho-de-ia-QO9buC-I1oI.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
+| 2026-10-20 | [Faça R$1K/mês ou mais (ensaios de foto com IA)](https://youtu.be/Jqr2WcitG-M) | rixardê | estudo do canal | — | [transcrição](videos/raw/faca-r-1k-mes-ou-mais-desse-jeito-que-vou-te-ensinar-Jqr2WcitG-M.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |

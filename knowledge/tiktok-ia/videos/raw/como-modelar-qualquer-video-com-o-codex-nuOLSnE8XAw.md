@@ -1,0 +1,70 @@
+# como modelar qualquer vídeo com o Codex
+
+- **URL:** https://www.youtube.com/watch?v=nuOLSnE8XAw
+- **Canal:** rixardê (22.200 inscritos) — https://www.youtube.com/channel/UCfeNwqs855hcRwUguLnv7vQ
+- **Publicado em:** 2026-09-19
+- **Duração:** 13:02
+- **Views / likes / comentários:** 32.857 / — / 157
+- **Extraído em:** 2026-10-20
+
+## Descrição
+
+aoba rapaziada, link dos arquivos da skill abaixo:
+
+https://drive.google.com/drive/folders/1NIC8tC6hmqlTanAXcGjg_LFWo39Zhvur?usp=sharing
+
+link do meu mano pra comprar continhas do flow para suas gerações:
+
+https://ggmax.com.br/anuncio/gemini-3-pro-5tb-veo-3-1-flow-omni-flash-antigravity-privado
+
+timestamps:
+
+0:00 Introdução e objetivo
+0:51 Como baixar o ChatGPT Desktop
+2:32 Configuração e instalação da Skill
+5:20 Escolha de modelos e consumo de créditos
+6:38 Mapeamento de um vídeo do TikTok na prática
+8:27 Modelando um novo vídeo com o modo Work
+11:47 Criando prompts de personagens e cenas
+12:39 Encerramento e comunidade
+
+## Capítulos
+
+- [00:00] Introdução e objetivo
+- [00:51] Como baixar o ChatGPT Desktop
+- [02:32] Configuração e instalação da Skill
+- [05:20] Escolha de modelos e consumo de créditos
+- [06:38] Mapeamento de um vídeo do TikTok na prática
+- [08:27] Modelando um novo vídeo com o modo Work
+- [11:47] Criando prompts de personagens e cenas
+- [12:39] Encerramento e comunidade
+
+## Transcrição
+
+_Idioma da legenda: pt (automática)_
+
+**[00:00]** E aí rapaziada, ah, hoje eu vou ensinar vocês a modelar basicamente qualquer vídeo com Codex, tá? Que eu ensinei naquele meu vídeo completão ali, que eu ensino a fazer basicamente tudo para trabalhar com TikTok. Só que eu vi que muita gente tava com, tava dando erro, né, no Codex, não tava conseguindo. E basicamente o que eu vou te ensinar aqui é a instalar uma skill no Codex que vai permitir com que tu coloque basicamente qualquer link assim do TikTok e também de, tipo, YouTube ou qualquer tipo de vídeo. E aí o TikTok vai, o
+**[00:30]** >> [risadas] >> o Codex vai basicamente te dar um mapeamento completo desse vídeo, tá? É cena por cena, todo o contexto do vídeo, toda a transcrição do vídeo. E isso vai facilitar muito, muito a tua vida para fazer vídeos novos. Então vou te ensinar a usar essa skill e eu também vou mostrar o uso dela na prática, fechou? Valeu. Vamos lá para a tela do PC. >> [grito] >> Então pessoal, é, basicamente vocês têm que fazer o seguinte, tá? Ah, vocês podem vir no Google mesmo e escrever, tipo, chat GPT download. E aí, pelo menos aqui para mim, é o primeiro link, tá? Vocês vão aqui ver que é o link
+**[01:01]** oficial, tá? Aí vocês entram e vai estar aqui, ó. Aí é só baixar para download, tá? Por quê? Porque para usar o Codex vocês precisam usar através do aplicativo do GPT, tá? Se vocês, tipo, vierem aqui no GPT de navegador e tal, não vai dar, não tem acesso ao Codex, tá? Ou, é, caso vocês não consigam baixar dessa forma, vocês podem vir no PC de vocês, no Windows, pesquisar por Microsoft Store e aí vocês vão abrir aqui a Microsoft Store. E aí vocês só pesquisam aqui, ó, chat GPT e podem baixar por aqui mesmo. Ah,
+**[01:32]** detalhe, não baixem esse chat GPT classic, tá? Porque esse aplicativo aqui, ele é só a versão de chat comum >> [roncando] >> do GPT, tá bom? Então vocês têm que baixar esse aqui, ó, que é só chat GPT. Ou esse beta, que eu nunca baixei, mas por ser beta eu acredito que ele te dê, é, funções, é, de teste, né, com acesso antecipado. Então é possível que ele tenha algumas funções mais legais, mas enfim, eu só baixei o normal, tá? Eh, e aí basicamente vocês vão ter esse essa
+**[02:03]** interface aqui, tá? E eu peço desculpa porque no no último vídeo eu deixei a câmera do outro lado e aí eu não consegui mostrar para vocês, tá? Mas basicamente o que vocês vão fazer? Vocês estão vendo aqui em cima onde está escrito Codex? Eu vou clicar aqui, né? E aí tem aqui ChatGPT e Codex, tá? Então assim, ó, se eu clicar em ChatGPT, aqui vai ter eh a minha interface minha interface do ChatGPT normal, tá? Com os projetos que eu crio aqui com meus vídeos e tal. E é basicamente isso. Hã, então, quando vocês quiserem modelar uma skill, o que que vocês vão fazer? Vocês
+**[02:34]** vão ter que clicar aqui em cima em ChatGPT e clicar em Codex. E aí vocês vão entrar na interface do Codex mesmo. Vocês podem ver que até os meus projetos de chat sumiram aqui do lado. Vocês vão vir no novo chat mesmo. E o que que acontece? O pessoal tava reclamando muito que o ChatGPT tava bloqueando o acesso ao TikTok, que não tava conseguindo baixar o vídeo nem nada. Quando eu criei essa skill, pessoal, eu basicamente fui criando e aperfeiçoando ela ao longo do tempo, tá? Então eu fui eu criei essa skill, aí eu fui vendo os erros que ela tava dando, eu fui
+**[03:06]** informando isso pro pro Codex e eu fui aprimorando ela, tá? Então basicamente o que eu vou fazer nesse vídeo, eu vou deixar um link de download, tá, na descrição e no comentário fixado, eh com o arquivo da skill completo e com um bloco de notas que vai ter o prompt para vocês colarem. Então basicamente o que vocês vão precisar fazer é jogar esse arquivo zip aqui no chat e colar o prompt que tá no bloco de notas, tá? Então eu vou fazer isso aqui. Vocês vão jogar aqui no GPT o zip.
+**[03:39]** E aí vai ter esse bloco de notas que vocês vão copiar tudo e colar aqui. E aí pronto, já tá. Essa é literalmente a minha skill, tá? A que eu fiz, que eu lapidei do zero, ela tá 100% como eu uso, tá? E aí vocês vão jogar aqui, vão dar um enter. Ah, detalhe, tá? Desculpa, esqueci, eu tinha que ter falado antes. Deem acesso completo ao fazer isso, tá? Aqui, ah, vocês dão acesso completo, porque daí ele vai fazendo tudo automaticamente, porque ele
+**[04:09]** possivelmente vai instalar Python e FFmpeg no PC de vocês, que são duas dependências importantes para essa skill rodar bem, tá? Ah, porque essa skill, ela já tá bem robusta, então, por exemplo, se vocês colocarem um link do TikTok aqui, ah, talvez o Codex não consiga acessar por algum erro, e aí ele vai ter outras vias para acessar o mesmo link, entende? Então, essa skill tá bem robusta, também certinha, então, deem acesso completo aqui, tá, ao instalar a skill, que aí o Codex vai instalar tudo que for necessário para rodar no PC de vocês, e aí depois vocês podem tirar o acesso
+**[04:40]** completo e continuar usando com solicitar aprovação ou aprovar por mim, se vocês se sentirem mais seguros, tá? É, e é basicamente isso, tá? E, agora, eu vou fazer um uso dessa skill na prática, tá? Eu não vou, é, instalar ela aqui, porque, tipo, eu já tenho ela, né? Eu basicamente só fiz o upload para vocês, para facilitar a vida de vocês, tá? Então, aqui eu tenho um vídeo que eu vou modelar e, tipo, vou modelar mesmo, vou ir a ponto de fazer esse vídeo e postar, tá? Então, eu já vou aproveitar aqui o embalo, eu vou copiar o link dele aqui, vou vir aqui no Codex
+**[05:10]** e eu simplesmente vou falar assim, é, "Use a skill do TikTok nesse vídeo". E vou botar aqui. Ah, gente, outra coisa muito importante, tá? Eu esqueci de falar antes. Sobre o modelo que vocês vão usar do GPT, tá? Eu, pessoalmente, gosto sempre de usar o Sol no médio, tá? Supre muito bem as necessidades e ele tem o uso de créditos equilibrado, tá? É, não aconselho vocês usar o Astra, que essa aqui é um Opala, tá ligado? Isso aqui bebe, nossa, cara,
+**[05:40]** isso aqui vai consumir o crédito de vocês, tá? Ele é muito bom, é o melhor, mas consome muito crédito, então, aconselho usarem o Sol. Eu geralmente uso o Sol no médio, às vezes no baixo, mas prefiro usar no médio e às vezes se eu fazer uma tarefa muito complexa de prompts e tal, eu uso no alto ou no extra alto, mas isso é muito específico, tá? Eh, não é sempre que eu faço isso. Ah, e também, né, uma uma boa alternativa é usar o Luna, que é o mais barato, tá? E usar ele no extra alto,
+**[06:10]** tá? Que o Luna já já é um um modelo que não exige tanto e usar ele no extra alto, ele tem um bom funcionamento e não consome tantos créditos, tá? Mas pelo menos assim, para criar skill, eu aconselho vocês a usar o Sol mesmo no médio ou no alto, tá? Para garantir que ele vai instalar tudo certinho, tá? Ah, e é isso. E aí para fazer o para usar skill em cima dos vídeos, eu uso mesmo o Sol no médio, tá? Então, eu vou enviar aqui e aí eu só vou esperar. Então, pessoal, ele trabalhou por 11 minutos aqui, tá? E me deu o resultado,
+**[06:42]** então eu vou mostrar para vocês basicamente tudo o que ele vai te dar aqui de resultado, ah, e como é que eu faço daí para fazer esse mapeamento, para modelar um vídeo meu, tá? Então, aqui no chat mesmo, ele vai te dar vários resultados, o storyboard aqui e tal. Ah, geralmente eu prefiro então vir aqui e clicar em relatório visual em HTML, que ele vai abrir aqui do lado, tá? E aqui tem umas coisas muito legais, interessantes para vocês, tá? Ah, porque além de fazer o mapeamento do vídeo para a gente modelar, ah, ele também pega alguns metadados do vídeo. E isso aqui é
+**[07:14]** uma coisa muito interessante. Ele pega o horário de postagem dos vídeos, tá, gente? Então, eh, para quem tem dúvidas aí de qual melhor horário de postar e tal, sempre que vocês usarem essa skill do TikTok para para mapear vídeos, vocês vão ter o horário de o horário de postagem que os caras postaram os vídeos, tá? Então, isso aqui é bom também para vocês terem uma ideia do que de quais horários que estão funcionando melhor para alguns vídeos e para alguns perfis do que para outros, tá? E também vocês podem, eh, conversar com o Codex e pedir para ele fazer uma variação desse skill focada
+**[07:45]** apenas em pegar o horário de de postagem dos vídeos, tá? Então é uma opção interessante para vocês também, tá? Mas, é, basicamente ele vai dar todo o contexto aqui, né? Então ele vai dar a cadeia de causas, né? Então panela em chamas, frigideira, panela atinge, derrete >> [risadas] >> parte do rosto da maçã, o médico diz que a polpa se perdeu, enfim, ele vai dar toda a lógica, né, estrutural do vídeo. Aqui ele vai dar o storyboard completo do vídeo. Aqui embaixo ele vai dar aqui, ó,
+**[08:16]** análise completa por âncora, né? Então todas as imagens bases, né, que ele usou para fazer as animações. E aqui tá tudo, tudo, tudo, tudo, tudo, tudo, tá? Então assim, como é que eu faria para modelar um vídeo desses, tá? Vamos lá. Primeiro de tudo a gente vai clicar aqui novamente em Codex e vai voltar para o GPT normal, certo? Nosso chat do Codex continuou aqui, tá? Ah, então eu vou abrir um novo chat, tá?
+**[08:46]** Como que eu gosto de trabalhar para fazer os meus vídeos e meus prompts, tá? Eu gosto de usar o modo work aqui em cima, porque ele é um modo muito mais inteligente e muito maior para fazer esse tipo de trabalho do que o chat normal, tá? >> [roncando] >> E geralmente eu trabalho com o modo work dentro de um projeto que eu crio aqui no meu GPT. Mas eu vou fazer um vídeo específico para isso, tá? É, especificamente mostrando como eu organizo os meus chats e como eu utilizo o modo work para desenvolver os prompts e basicamente tudo que eu faço no vídeo,
+**[09:18]** tá? Mas, é, aqui como o foco é mostrar o funcionamento da skill e como que utilizar, é, eu vou abrir rapidamente aqui um chat então no modo work e, como vocês sabem, eu gosto de conversar com o GPT, é, por áudio, porque fica muito mais fácil, tá? Mas aqui eu vou basicamente só escrever, tá? Porque é mais para mérito de mostrar para vocês. Então, basicamente o que eu escreveria seria assim, ó: hã, GPT, vamos modelar mais um vídeo.
+**[09:49]** Vou te enviar o mapeamento que o Codex fez do vídeo que iremos modelar. Quero que analise o vídeo mapeado e depois me dê sugestões de quais personagens novos podemos criar e adaptar para fazer a nossa versão. Show. Aí eu boto aqui
+**[10:20]** mapeamento Codex. Show. Aí, eu volto aqui no nosso chat que a gente abriu no Codex, né? E eu vou começar a copiar os resultados. Vou copiar essa primeira parte. Vou voltar no chat. Vou copiar a primeira parte aqui. Vou voltar lá no Codex. Aí, eu vou clicar com o botão direito e salvar o storyboard. Vou salvar aqui na área de trabalho mesmo.
+**[10:52]** Vou voltar aqui na nossa conversa de novo. Vou vir aqui na minha área de trabalho. Vou arrastar aqui para o chat o storyboard. Vou voltar de novo aqui no nosso chat do Codex. E vou copiar o resto aqui. Copiar tudo. Voltando no nosso chat aqui.
+**[11:22]** E vou colar. Como o texto tá muito grande, ele copiou como um anexo aqui. Sempre usando o solo no médio e vou basicamente mandar aqui para ele. Agora é só esperar. Perfeito então. Então aqui é o GPT já pegou, né, todo o mapeamento, storyboard que a gente mandou para ele. Ele já deu uma boa contextualizada para saber eh como que a gente vai fazer esse vídeo novo, né, essa essa modelagem. E a partir daqui, pessoal, é basicamente só seguir eh o que eu já ensinei para vocês lá no no meu vídeo. Aí a gente vai eh conversar com ele, vai
+**[11:55]** desenvolver primeiro os personagens do vídeo, então vai pedir para ele prompts, né, para gerar esses personagens importantes do vídeo eh em fundo neutro, né, isolado. E depois a gente vai usar esses personagens que a gente gerou para aplicar nas cenas, né. Daí a gente vai gerar os prompts de cena e por aí vai, né. Ah, no caso eh tu seja novo no canal e não saiba como é que faz tudo isso, eu tenho um vídeo tipo de duas horas basicamente ensinando a fazer tudo, então tu pode entrar lá e dar uma olhada. Eh mas é basicamente isso, gente. É
+**[12:26]** assim que eu uso o Codex para modelar vídeos. É muito mais fácil, né, do que ter que, tipo, modelar um vídeo manualmente tirando print e tal. E é isso. Espero que tenha ajudado vocês. Eh valeu aí. E também eu agora eu abri a área de membros do canal, então se tu quiser entrar, vai ter acesso ao Discord. O pessoal já tá tendo uns resultados legais lá, tá interagindo, se ajudando. E também vão ter alguns conteúdos exclusivos para membros, mas de novo, não se preocupem que eu sempre vou continuar aqui mandando o conteúdo de graça para vocês, para ajudar vocês. E é isso. Valeu, pessoal.

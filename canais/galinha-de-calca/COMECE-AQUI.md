@@ -3,7 +3,7 @@
 Canal: **Cleide, a galinha de calça jeans** · TikTok `@cleideformosa` · vídeos gerados com IA, sem fala.
 Repositório: `Sunday-to-Sunday/design-system`, branch `claude/youtube-video-analysis-tool-gzxalw`.
 
-Leia nesta ordem:
+Leia nesta ordem (e o estudo do rixardê em [`APRENDIZADOS-RIXARDE.md`](APRENDIZADOS-RIXARDE.md) para entender o porquê das regras):
 1. [`BIBLIA.md`](BIBLIA.md): quem é a Cleide, as três regras (ação absurda, câmera de celular real, corpo de galinha), sem fala.
 2. [`personagem/CONSISTENCIA.md`](personagem/CONSISTENCIA.md): **regra número um, a Cleide é igual em todos os vídeos.**
 3. [`personagem/prompts.md`](personagem/prompts.md): prompts da ficha, prontos para colar.
