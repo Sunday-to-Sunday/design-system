@@ -73,7 +73,20 @@ Um minidocumentário de um "dia" dela, com começo, meio e fim:
 5. Final fofo ou engraçado + gancho para o próximo ("semana que vem ela vai pra praia").
 A narração em off conta a história com graça e com cara séria ("a Cleide acordou decidida hoje…").
 
-### C. Datas e trends — curto ou longo
+### C. Montagem (inspirado no #skateondog) — 12 a 20 s, 10 a 16 planos de 1–1,5 s
+Um tema só, muitos planos curtos no ritmo da música (ex.: "a Cleide no forró", "a Cleide na praia"). De cada geração do Veo usa-se só o melhor segundo, o que esconde defeitos e dá densidade. Câmera baixa, pessoas aparecendo só dos joelhos para baixo, a Cleide sempre protagonista. Mapa da referência: [`referencias/skate-on-dog-compilacao`](referencias/skate-on-dog-compilacao/mapa.md).
+
+### Assinatura de final (todos os formatos)
+O último plano é sempre a Cleide em close, ciscando ou encarando direto a lente, de baixo para cima. Vira a marca do canal e convida a rever.
+
+### Linguagem visual **[decidir]**
+O canal da referência ganha força por imitar um gênero reconhecível (vídeo de skate dos anos 90, com lente olho de peixe). Escolher uma linguagem fixa para a Cleide:
+- **Flagra de celular vertical** (padrão atual): realista e simples, mas genérico.
+- **Câmera de segurança (CFTV)**, com data e hora no canto e plano de cima: muito reconhecível, fácil de gerar bem, combina com "a Cleide entrou na loja".
+- **Reportagem de TV local**: repórter entrevistando o feirante sobre a galinha de calça; bem brasileiro, funciona melhor no formato longo.
+Dá para combinar: flagras e CFTV nos curtos, reportagem nos longos.
+
+### D. Datas e trends — curto ou longo
 São João, Carnaval, Copa, Dia das Mães, Natal, volta às aulas, Black Friday. O São João é o mais natural: a calça jeans já é roupa de quadrilha.
 
 ## 7. Banco de ideias
@@ -149,3 +162,9 @@ Marque `[x]` quando virar episódio.
 | EP | Título | Formato | Status | Views 48h | Retenção | Pacote |
 |---|---|---|---|---|---|---|
 | 01 | Cleide na feira | Flagra | roteiro pronto | — | — | [roteiro](episodios/ep01-feira/roteiro.md) |
+
+## 12. Referências modeladas
+
+| Referência | Formato | O que aproveitar | Mapa |
+|---|---|---|---|
+| #skateondog (compilação) | Montagem rápida | Troca absurda repetida, linguagem visual de gênero, 1 corte/s, final com o animal na lente | [mapa](referencias/skate-on-dog-compilacao/mapa.md) |
