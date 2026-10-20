@@ -48,8 +48,10 @@ out through an opening at the back. Visible stitching, slightly worn knees.
 ### Personalidade (só pelo comportamento)
 Confiante, despachada, indiferente ao espanto alheio. Faz a manobra como quem faz isso todo dia e segue a vida. O humor é ela levar a sério algo que não devia conseguir fazer.
 
-### Ficha de referência (gerar primeiro)
-Prompts em [`personagem/prompts.md`](personagem/prompts.md). Salve as aprovadas como `cleide-frente.png`, `cleide-perfil.png`, `cleide-34.png`.
+### Ficha de referência e consistência (gerar primeiro)
+Prompts em [`personagem/prompts.md`](personagem/prompts.md). Salve as aprovadas como `cleide-frente.png`, `cleide-perfil.png`, `cleide-34.png` e `cleide-cabeca.png`.
+
+**A Cleide tem de ser idêntica em todos os vídeos.** O protocolo obrigatório está em [`personagem/CONSISTENCIA.md`](personagem/CONSISTENCIA.md): a ficha nunca é refeita, toda imagem é gerada com a ficha anexada, o vídeo sempre parte de uma imagem aprovada, e tudo passa pela conferência lado a lado antes de virar vídeo e antes de ir ao ar.
 
 ## 5. A câmera (o que faz parecer real)
 

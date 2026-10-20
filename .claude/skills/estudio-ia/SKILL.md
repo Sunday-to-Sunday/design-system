@@ -43,7 +43,9 @@ Se o download falhar, peça ao usuário para baixar o vídeo e mandar o arquivo;
 2. Defina: premissa em 1 frase, ficha visual do personagem (descritores fixos), personalidade, o que **nunca** muda, 2–3 formatos que se repetem (um curto para crescer e um com mais de 1 minuto para monetizar), banco de pelo menos 30 ideias, regras de tom e de segurança.
 3. Use o modelo em `references/biblia-template.md`.
 
-### B. Personagem consistente
+### B. Personagem consistente (obrigatório)
+Se o canal tiver um `personagem/CONSISTENCIA.md`, ele manda: siga-o em todo episódio. Use `scripts/comparar.py PASTA_DA_FICHA imagens... clipes...` para montar a folha ficha × candidatos e olhe antes de aprovar qualquer imagem ou vídeo.
+
 1. Escreva prompts para a **ficha do personagem** no Nano Banana: frente, perfil e 3/4, corpo inteiro, fundo neutro, mesma luz (`references/flow-guia.md`, seção Personagem).
 2. O usuário gera, escolhe e salva as aprovadas em `canais/<canal>/personagem/`. Essas imagens viram os **ingredientes** de todos os vídeos.
 3. Congele na BIBLIA o bloco de descrição do personagem e repita-o **igual, palavra por palavra**, em todo prompt.

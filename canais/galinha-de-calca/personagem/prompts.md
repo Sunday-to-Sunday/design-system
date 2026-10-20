@@ -1,6 +1,6 @@
 # Ficha da Cleide — prompts de referência (Nano Banana)
 
-No Flow: **Imagem**, proporção **9:16**, 4 variações por prompt. Gere os três ângulos, escolha a melhor de cada um e salve aqui como `cleide-frente.png`, `cleide-perfil.png` e `cleide-34.png`. Gere o perfil e o 3/4 **anexando a frente aprovada** como referência, para manter a mesma galinha e a mesma calça.
+No Flow: **Imagem**, proporção **9:16**, 4 variações por prompt. Gere os quatro (frente, perfil, 3/4 e cabeça), escolha a melhor de cada um e salve aqui como `cleide-frente.png`, `cleide-perfil.png`, `cleide-34.png` e `cleide-cabeca.png`. Depois de aprovada, a ficha nunca mais é refeita: veja [`CONSISTENCIA.md`](CONSISTENCIA.md). Gere o perfil e o 3/4 **anexando a frente aprovada** como referência, para manter a mesma galinha e a mesma calça.
 
 Critérios para aprovar: penas carijó nítidas, crista vermelha, pés amarelos aparecendo abaixo da barra, calça jeans azul desbotada com cinto marrom e barra dobrada (a marca registrada dela, igual em todos os vídeos), anatomia de galinha normal, sem cara de desenho. A realidade vem da câmera de celular nos episódios; a ficha é a referência limpa da personagem.
 
@@ -53,7 +53,27 @@ sideways chicken glance, showing the stitching and the rolled-up cuffs.
 No cartoon, no 3D render look, no human-like body, no text, no logos, no watermark.
 ```
 
-## 4. Teste no mundo (opcional, antes do EP01)
+## 4. Cabeça (anexar a frente aprovada)
+
+Serve para fixar crista, olho, bico e o padrão das penas do pescoço, que são o "rosto" dela.
+
+```
+Ultra-realistic studio photograph, vertical 9:16, close-up portrait of the hen's head and neck down to
+the top of the jeans waistband, three-quarter angle, camera at eye level, soft diffused studio light,
+plain light-gray seamless background, sharp focus on the eye.
+Same hen and same jeans as the reference image.
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
+Pose: head turned slightly toward the camera, one amber eye clearly visible, comb and wattles in full
+detail, the barred pattern of the neck feathers sharp, the brown belt just visible at the bottom.
+No cartoon, no 3D render look, no human-like body, no text, no logos, no watermark.
+```
+
+## 5. Teste no mundo (opcional, antes do EP01)
 
 ```
 Amateur smartphone photo, vertical 9:16, handheld, slight motion blur, natural daylight, compressed
