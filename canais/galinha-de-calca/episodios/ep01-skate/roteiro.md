@@ -49,7 +49,12 @@ upright like a human, no readable text, no logos, no watermark.
 ```
 Amateur smartphone photo, vertical 9:16, handheld, slight motion blur, imperfect framing, late
 afternoon golden sunlight, compressed social-media quality, realistic.
-CHARACTER: [colar o bloco fixo da BIBLIA, igual ao da cena 1]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Scene: the same Brazilian public concrete skatepark. Cleide is on the skateboard rolling toward a low
 concrete kicker ramp, wings half open, body leaning forward, the jeans and rolled-up cuffs clearly
 visible. A concrete bench and a backpack on the ground at the right edge of the frame. The two teenage
@@ -90,7 +95,12 @@ stands upright like a human; she balances like a real chicken, using her wings.
 Amateur smartphone video, vertical 9:16, handheld by a bystander, slight shake, imperfect framing,
 quick clumsy digital zoom at the end, late afternoon golden sunlight, compressed quality, realistic,
 8 seconds.
-CHARACTER: [colar o bloco fixo da BIBLIA, igual ao da cena 1]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Action: 0–2s Cleide rolls up the low concrete kicker ramp. 2–3s she does a small hop with a quick flap
 of her wings, the skateboard lifts slightly off the ground and she lands back on it. 3–5s she rolls to a
 stop near the concrete bench. 5–7s she hops off the board onto the ground, shakes her whole body to fluff

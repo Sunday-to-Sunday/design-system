@@ -25,7 +25,12 @@ No cartoon, no 3D render look, no human-like body, no text, no logos, no waterma
 Ultra-realistic studio photograph, vertical 9:16, full body side view (left profile), camera at the
 hen's eye level, soft diffused studio light, plain light-gray seamless background, sharp focus.
 Same hen and same jeans as the reference image.
-CHARACTER: [colar o bloco fixo da BIBLIA]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Pose: walking to the left mid-step, one yellow foot lifted, the jeans' back opening and tail feathers
 clearly visible, the thin brown belt visible at the waist.
 No cartoon, no 3D render look, no human-like body, no text, no logos, no watermark.
@@ -37,7 +42,12 @@ No cartoon, no 3D render look, no human-like body, no text, no logos, no waterma
 Ultra-realistic studio photograph, vertical 9:16, full body three-quarter view, camera slightly above
 the hen, soft diffused studio light, plain light-gray seamless background, sharp focus.
 Same hen and same jeans as the reference image.
-CHARACTER: [colar o bloco fixo da BIBLIA]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Pose: standing turned three-quarters to the right, head turned back toward the camera with a
 sideways chicken glance, showing the stitching and the rolled-up cuffs.
 No cartoon, no 3D render look, no human-like body, no text, no logos, no watermark.
@@ -48,7 +58,12 @@ No cartoon, no 3D render look, no human-like body, no text, no logos, no waterma
 ```
 Amateur smartphone photo, vertical 9:16, handheld, slight motion blur, natural daylight, compressed
 social-media quality, realistic.
-CHARACTER: [colar o bloco fixo da BIBLIA]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Accessory for this photo: small black sunglasses sitting on her beak.
 She is standing on a skateboard on a Brazilian beachfront promenade (calçadão) with black-and-white
 wave-pattern pavement, palm trees and the sea behind her, a couple of people walking by looking at her.

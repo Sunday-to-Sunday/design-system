@@ -24,7 +24,7 @@
 
 ## 4. Personagem
 
-**Nome:** Cleide **[decidir]** (sugestões: Cleide, Jurema, Dona Cocó, Zuleide).
+**Nome:** Cleide.
 
 ### Bloco fixo (copiar igual em todo prompt)
 
@@ -126,9 +126,9 @@ Marque `[x]` quando virar episódio. Entre parênteses, o adereço sugerido.
 - [ ] Ano Novo na praia, pulando as sete ondas
 - [x] Eleição: entra na sala de votação, passa pelo mesário, vota atrás da cabine e sai comemorando → **EP02**
 
-## 8. Identidade do perfil **[decidir]**
+## 8. Identidade do perfil
 
-- **@:** sugestões `@galinhadecalca`, `@cleidedecalca`, `@acleidedecalca` (verifique se estão livres).
+- **@:** `@cleideformosa` (parecia livre no TikTok em 20/10/2026; `@galinhadecalca` já existe).
 - **Nome no perfil:** "Cleide 👖🐔 influencer"
 - **Bio:** "influenciadora que nunca gravou um vídeo • sempre de calça jeans • vídeos feitos com IA"
 - **Legendas:** em primeira pessoa, como se ela postasse: curtas, com um emoji ("hoje o treino foi pesado 🛹").

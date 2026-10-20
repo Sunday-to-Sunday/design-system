@@ -57,7 +57,12 @@ hen never stands upright like a human, no watermark.
 Amateur smartphone photo, vertical 9:16, taken from the back of a classroom by someone standing near
 the pushed-aside desks, slight motion blur, imperfect framing, fluorescent light, compressed
 social-media quality, realistic.
-CHARACTER: [colar o bloco fixo da BIBLIA, igual ao da cena 1]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Scene: a Brazilian public school classroom set up as a polling station: student desks pushed against
 the wall, a simple table where two poll workers in plain neutral clothes sit with printed lists and
 papers (no readable text), and further away a standard grey cardboard voting booth partition standing
@@ -74,7 +79,12 @@ no human hands on the hen, the hen never stands upright like a human, no waterma
 Amateur smartphone photo, vertical 9:16, taken inside the classroom from the side of the voting booth,
 a few meters away, slight motion blur, imperfect framing, fluorescent light, compressed social-media
 quality, realistic.
-CHARACTER: [colar o bloco fixo da BIBLIA, igual ao da cena 1]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Scene: the same Brazilian public school classroom used as a polling station. Cleide is standing on the
 small table behind the grey cardboard voting booth partition, seen from the side: her body, jeans and
 tail feathers are visible, her head is lowered toward the inside of the booth, and the partition
@@ -115,7 +125,12 @@ upright like a human.
 ```
 Amateur smartphone video, vertical 9:16, filmed from the back of the classroom, slight shake, imperfect
 framing, fluorescent light, compressed quality, realistic, 8 seconds.
-CHARACTER: [colar o bloco fixo da BIBLIA, igual ao da cena 1]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Action: 0–2s on top of the poll workers' table, Cleide nudges the small blank card toward the female
 poll worker with her beak. 2–4s the poll worker glances at the card, checks her printed list and gives a
 small calm nod. 4–6s Cleide hops down from the table. 6–8s she walks across the classroom floor toward
@@ -132,7 +147,12 @@ human.
 Amateur smartphone video, vertical 9:16, filmed inside the classroom from the side of the voting booth,
 slight shake, imperfect framing, the phone swings to follow the hen at the end, fluorescent light,
 compressed quality, realistic, 8 seconds.
-CHARACTER: [colar o bloco fixo da BIBLIA, igual ao da cena 1]
+CHARACTER: Cleide, a real adult Brazilian free-range "carijó" hen with barred black-and-white plumage,
+a bright red single comb and wattles, orange-amber eyes, a yellow beak, and scaly yellow legs and feet;
+real chicken anatomy and proportions. She wears small, well-fitted, medium-wash faded blue denim jeans
+made for a chicken: high waist sitting just below her wings with a thin brown leather belt, the legs
+covering her thighs and ending in rolled-up cuffs just above her yellow feet, her tail feathers coming
+out through an opening at the back. Visible stitching, slightly worn knees.
 Action: 0–3s behind the grey cardboard partition, Cleide pecks a few times at something inside the
 booth that the partition hides; short electronic key beeps. 3–4s one long electronic confirmation beep.
 4–6s Cleide steps out from behind the partition flapping her wings and does two small excited hops.

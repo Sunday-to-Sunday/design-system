@@ -12,7 +12,7 @@ textos:
     inicio: 0
     fim: 3
 marca_dagua:
-  texto: "@galinhadecalca"         # trocar pelo @ definitivo
+  texto: "@cleideformosa"
   momentos: [[4, 7], [14, 17]]
 audio:
   normalizar: true
