@@ -38,12 +38,6 @@ python3 .claude/skills/estudio-ia/scripts/perfis.py @perfil1 @perfil2 --out cana
 
 O `perfis.py` lê os metadados dos vídeos de perfis de referência do TikTok e mostra os melhores horários, dias, durações e hashtags dos 25% vídeos mais fortes (força medida em relação à mediana do próprio perfil), além dos 10 mais fortes para modelar. O TikTok às vezes bloqueia listagem de perfis a partir de servidores; se voltar vazio, tente mais tarde ou rode no computador do usuário.
 
-```bash
-python3 .claude/skills/estudio-ia/scripts/prompt_chrome.py canais/<canal>/episodios/epNN-<slug> [--sem-ficha] [--drive Cleide]
-```
-
-O `prompt_chrome.py` gera o `PROMPT-CHROME.md` do episódio: as instruções para o Claude da extensão do Chrome operar o Google Flow, a `CONSISTENCIA.md`, os prompts da ficha (só se as imagens da ficha ainda não estiverem em `personagem/`) e as seções de geração do roteiro, tudo num texto só para colar, sem links do repositório privado. No fim, o Claude do Chrome envia os arquivos para a pasta `Cleide/<episódio>` do Google Drive, de onde esta sessão os baixa com o conector do Drive para conferir e montar. Rode sempre que terminar ou mudar um roteiro.
-
 O `video_map.py` baixa o vídeo (TikTok, Shorts, Reels ou arquivo local), detecta os cortes, salva um quadro por cena, monta a `contato.jpg` numerada e transcreve as falas com o Whisper local. O resultado fica em `mapa.md`.
 
 Se o download falhar, peça ao usuário para baixar o vídeo e mandar o arquivo; o script também aceita caminho local.
@@ -89,8 +83,6 @@ Quando o usuário mandar prints ou clipes gerados:
 - se o Flow recusar um prompt por política, reescreva tirando o gatilho provável e explique a troca.
 
 ## Regras de produção
-
-- **Regra dos 3:** se uma tarefa foi feita à mão 3 vezes (montar um prompt, explicar uma regra, conferir algo), ela vira script, seção da BIBLIA ou skill. Não existe a quarta vez. Toda decisão nova do usuário vai na hora para a "Memória viva" da BIBLIA.
 
 - **Prompts em inglês.** O Veo segue melhor instruções em inglês. Se o canal tiver fala, escreva as falas em português do Brasil entre aspas, com "Brazilian Portuguese" explícito. Se o canal for **sem fala** (veja a BIBLIA), todo prompt de vídeo termina com `No dialogue, nobody speaks, no voice-over, no music, no subtitles, background voices only as an unintelligible murmur`, e o checklist do post manda ouvir com fone e cortar qualquer palavra que o Veo tenha colocado.
 - **Cada prompt é independente:** nada de "como na cena anterior". Repita personagem, cenário, luz e estilo em todos.

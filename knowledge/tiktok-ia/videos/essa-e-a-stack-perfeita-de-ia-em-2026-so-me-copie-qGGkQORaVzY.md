@@ -1,6 +1,6 @@
 # Essa é a stack perfeita de IA em 2026 (só me copie)
 
-> **Veredito:** não é um método de ganhar dinheiro no TikTok, e sim uma forma de organizar o trabalho com IA (memória, skills, time de agentes, ferramentas conectadas). Vale copiar a estrutura para que o canal da Cleide rode com menos explicação a cada sessão.
+> **Veredito:** não é um método de ganhar dinheiro no TikTok, e sim uma forma de organizar o trabalho com IA (memória, skills, time de agentes, ferramentas conectadas). Vale adotar a estrutura inteira como sistema pessoal para todos os projetos com o Claude e outras IAs.
 > **Nota:** 4 · Aplicabilidade 5 · Confiabilidade 3
 > **Fonte:** https://youtu.be/qGGkQORaVzY · Felipe Tâmbara · 2026-10-01 · 23:19 · 213.919 views
 > **Analisado em:** 2026-10-30
@@ -19,7 +19,7 @@ A demonstração é um único prompt, sem nenhuma pergunta de volta, que monta e
 - **De onde vem o dinheiro (do criador):** a comunidade paga "Core" [21:50]. A skill de segundo cérebro gratuita serve de isca para a comunidade.
 - **Requisitos:** Claude Code (ou outro agente com terminal). O Obsidian é opcional [02:09].
 - **Investimento inicial:** a assinatura das IAs. O Maestri é grátis para 1 workspace [11:44].
-- **Tempo até o primeiro real:** não se aplica. O ganho é tempo por episódio.
+- **Tempo até o primeiro real:** não se aplica. O ganho é tempo em cada tarefa.
 
 ## Processo passo a passo
 1. **Memória (segundo cérebro)** [01:03–07:23]: uma pasta de arquivos de texto com quem você é, negócios, pessoas, branding (cores, fontes, voz), preços e o que performa ou não. Captura contínua: cada fato novo dito numa conversa vai para a ficha certa [03:12].
@@ -36,7 +36,7 @@ A demonstração é um único prompt, sem nenhuma pergunta de volta, que monta e
 - Custo real do time de agentes (4 assinaturas).
 
 ## Ferramentas
-| Ferramenta | Função no processo | Grátis/pago | Para nós |
+| Ferramenta | Função no processo | Grátis/pago | Observação |
 |---|---|---|---|
 | Obsidian | Visualizar a pasta de memória | Grátis | Opcional. O GitHub já mostra os `.md` |
 | Claude Code | Agente principal com terminal | Pago | Já usamos (esta sessão) |
@@ -52,7 +52,7 @@ A demonstração é um único prompt, sem nenhuma pergunta de volta, que monta e
 ## Prompts, roteiros e templates
 Prompt da demonstração (transcrito de [14:21]): "Crie uma página de captura para a Core com o branding oficial da Core. A página é um formulário rápido para quem quer entrar na Core e pede nome, WhatsApp e cidade. Regras: título forte, formulário em etapas, salve as respostas numa tabela e monte um time no Maestri. Não me pergunte mais nada, só monte."
 
-A versão para nós: "Faz o EP04 da Cleide: [ideia]. Não me pergunte nada." Isso só funciona se a memória e a skill já tiverem tudo.
+A versão para nós: um pedido curto ("faz a proposta para o cliente X", "monta o post da semana") que só funciona se a memória e a skill já tiverem tudo.
 
 ## Habilidades necessárias
 - Organizar arquivos de texto e escrever uma SKILL.md (básico). Já fazemos isso no repositório.
@@ -75,21 +75,16 @@ A versão para nós: "Faz o EP04 da Cleide: [ideia]. Não me pergunte nada." Iss
 - **Regras da plataforma:** a Evolution API é uma API de WhatsApp não oficial e pode levar ao bloqueio do número. Não usar no número pessoal.
 - **Segurança:** dar à IA as credenciais e o acesso a todas as conversas amplia o estrago se algo der errado. Conectar só o necessário.
 - **Viés do criador:** ele vende a comunidade Core. Os números de faturamento são isca.
-- **Excesso de ferramenta:** 15 ferramentas para um canal de TikTok é desperdício. Para nós bastam o GitHub (memória e skills), a sessão na nuvem, o Claude no Chrome (Flow), o Google Drive (troca de arquivos) e a Metricool (post).
+- **Excesso de ferramenta:** conectar só o que um projeto real usa; cada ferramenta nova entra no registro de braços antes de ser usada.
 
-## Aplicação no canal da Cleide (feito em 2026-10-30)
-| Camada | O que já tínhamos | O que foi adicionado |
-|---|---|---|
-| Memória | `BIBLIA.md`, `CONSISTENCIA.md`, `knowledge/`, roteiros | O mapa do segundo cérebro no `CLAUDE.md` da raiz: toda sessão nova sabe onde está cada coisa sem precisar ser explicada. Também a seção "Memória viva" na BIBLIA, para registrar decisões e resultados no lugar certo |
-| Habilidades | `estudio-ia`, `youtube-learn`, `viral-hooks`, `viral-tiktok-content` | A regra dos 3 na `estudio-ia` e o `prompt_chrome.py`. Montar o prompt do Chrome à mão já tinha acontecido; agora ele sai pronto de qualquer roteiro, com todos os textos dentro, sem depender de links do repositório privado |
-| Orquestração | Esta sessão (roteiro, edição, post) + o Claude no Chrome (geração no Flow) | O fluxo documentado: a sessão na nuvem faz o pacote e o prompt, o Chrome gera e salva no Drive, e a sessão na nuvem monta e agenda |
-| Braços | Metricool (post), Magnific (recusado pelo usuário) | A troca de arquivos pelo Google Drive (pasta "Cleide"), já que esta sessão tem o conector do Drive |
+## Adoção
+Adotado como sistema pessoal, para todos os projetos e IAs, num repositório próprio (`segundo-cerebro`), e não dentro de um projeto. Uma primeira aplicação dentro do canal da Cleide foi desfeita a pedido do usuário.
 
 ## Plano de teste (7 dias)
-- [ ] Dia 1: abrir uma sessão nova e pedir só "faz o próximo episódio da Cleide". Conferir se ela acha a BIBLIA, a CONSISTENCIA e a skill sem explicação.
-- [ ] Dia 2–3: gerar o prompt do Chrome com o `prompt_chrome.py`, colar na extensão e salvar os resultados na pasta do Drive.
-- [ ] Dia 4–5: a sessão na nuvem baixa do Drive, confere, monta e agenda na Metricool.
-- [ ] Dia 6–7: medir o tempo total por episódio e anotar na BIBLIA o que ainda pediu explicação. Cada coisa que precisou ser explicada 3 vezes vira regra ou skill.
+- [ ] Dia 1: instalar o segundo cérebro no Mac e responder a entrevista inicial (camada 1).
+- [ ] Dia 2–3: usar no dia a dia; cada fato novo dito numa conversa precisa aparecer no arquivo certo.
+- [ ] Dia 4–5: escolher o processo mais repetido da semana e transformá-lo em skill (camada 2).
+- [ ] Dia 6–7: rodar uma tarefa grande com a divisão de carga entre modelos (camada 3) e medir o tempo e o custo contra fazer tudo com um modelo só.
 
 ## Citações úteis
 > "A memória sabe quem você é e a skill sabe como você faz." [07:23]

@@ -27,7 +27,7 @@ Episódios históricos dramáticos de cerca de 1 minuto, com narração grave, i
 ### Infraestrutura — Sistema de IA em 4 camadas (não é monetização)
 Memória (segundo cérebro em arquivos de texto com um mapa no CLAUDE.md), habilidades (skills e a regra dos 3), orquestração (time de modelos) e braços (ferramentas conectadas). Serve para produzir cada episódio com menos explicação.
 - Fontes: [Felipe Tâmbara — a stack perfeita de IA](videos/essa-e-a-stack-perfeita-de-ia-em-2026-so-me-copie-qGGkQORaVzY.md)
-- Aplicado: mapa no `CLAUDE.md` da raiz, seção "Memória viva" na BIBLIA da Cleide, `prompt_chrome.py` e troca de arquivos pelo Google Drive.
+- Adotado como sistema pessoal num repositório próprio (`segundo-cerebro`), fora deste projeto.
 
 ### Evitar — Dublar áudio de outra pessoa
 Animar personagens sobre cortes virais de comediantes: conteúdo não original e violação de direitos. [Análise](videos/como-fazer-videos-virais-com-ia-pra-monetizar-no-tiktok-pass-wNmsq0rvJpM.md).

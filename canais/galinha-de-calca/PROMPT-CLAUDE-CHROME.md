@@ -1,7 +1,5 @@
 # Prompt para o Claude no Chrome (gerar no Google Flow)
 
-> **Prefira o prompt gerado por episódio:** `python3 .claude/skills/estudio-ia/scripts/prompt_chrome.py canais/galinha-de-calca/episodios/<episódio>` cria o `PROMPT-CHROME.md` dentro da pasta do episódio, com todos os textos dentro (sem depender de links do GitHub) e a entrega pelo Google Drive. O bloco abaixo continua valendo como versão com links.
-
 Cole o bloco abaixo no painel do Claude na extensão do Chrome, com o Google Flow (labs.google/flow) aberto e logado. Troque `EP03` e o link do roteiro quando for outro episódio.
 
 ```
