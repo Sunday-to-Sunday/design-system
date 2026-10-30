@@ -24,6 +24,11 @@ Episódios históricos dramáticos de cerca de 1 minuto, com narração grave, i
 - Fontes: [Projeto Renda Digital](videos/como-ganhar-muito-dinheiro-no-tiktok-com-ia-sem-aparecer-oo32igqk9gs.md)
 - Aplicado no canal [`canais/um-dia-em`](../../canais/um-dia-em/BIBLIA.md), em versão sem narração e em primeira pessoa.
 
+### Infraestrutura — Sistema de IA em 4 camadas (não é monetização)
+Memória (segundo cérebro em arquivos de texto com um mapa no CLAUDE.md), habilidades (skills e a regra dos 3), orquestração (time de modelos) e braços (ferramentas conectadas). Serve para produzir cada episódio com menos explicação.
+- Fontes: [Felipe Tâmbara — a stack perfeita de IA](videos/essa-e-a-stack-perfeita-de-ia-em-2026-so-me-copie-qGGkQORaVzY.md)
+- Aplicado: mapa no `CLAUDE.md` da raiz, seção "Memória viva" na BIBLIA da Cleide, `prompt_chrome.py` e troca de arquivos pelo Google Drive.
+
 ### Evitar — Dublar áudio de outra pessoa
 Animar personagens sobre cortes virais de comediantes: conteúdo não original e violação de direitos. [Análise](videos/como-fazer-videos-virais-com-ia-pra-monetizar-no-tiktok-pass-wNmsq0rvJpM.md).
 
@@ -44,3 +49,4 @@ Animar personagens sobre cortes virais de comediantes: conteúdo não original e
 | 2026-10-20 | [Qual o melhor horário pra postar no TikTok](https://youtu.be/ArU-uklVH_I) | rixardê | estudo do canal | — | [transcrição](videos/raw/qual-o-melhor-horario-pra-postar-no-tiktok-em-qualquer-nicho-ArU-uklVH_I.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
 | 2026-10-20 | [Saturei o nicho de IA?](https://youtu.be/QO9buC-I1oI) | rixardê | estudo do canal | — | [transcrição](videos/raw/saturei-o-nicho-de-ia-QO9buC-I1oI.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
 | 2026-10-20 | [Faça R$1K/mês ou mais (ensaios de foto com IA)](https://youtu.be/Jqr2WcitG-M) | rixardê | estudo do canal | — | [transcrição](videos/raw/faca-r-1k-mes-ou-mais-desse-jeito-que-vou-te-ensinar-Jqr2WcitG-M.md) · [aprendizados](../../canais/galinha-de-calca/APRENDIZADOS-RIXARDE.md) |
+| 2026-10-30 | [Essa é a stack perfeita de IA em 2026](https://youtu.be/qGGkQORaVzY) | Felipe Tâmbara | infraestrutura (4 camadas) | 4/5 | [análise](videos/essa-e-a-stack-perfeita-de-ia-em-2026-so-me-copie-qGGkQORaVzY.md) |

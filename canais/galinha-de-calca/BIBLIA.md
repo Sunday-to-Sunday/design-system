@@ -181,3 +181,13 @@ Marque `[x]` quando virar episódio. Entre parênteses, o adereço sugerido.
 | Referência | Formato | O que aproveitar | Mapa |
 |---|---|---|---|
 | #skateondog (compilação) | Montagem rápida | Animal fazendo algo impossível, sem fala, câmera de gênero reconhecível, 1 corte/s, final com o animal | [mapa](referencias/skate-on-dog-compilacao/mapa.md) |
+
+## 14. Memória viva
+
+Registro contínuo do que foi decidido e do que os números mostraram. Toda sessão anota aqui na hora; o que se repetir 3 vezes vira regra numa seção acima ou numa skill.
+
+| Data | Tipo | O quê |
+|---|---|---|
+| 2026-10-20 | Decisão | Sem vídeos partidários; ideia pós-eleição fica no banco. |
+| 2026-10-20 | Decisão | Geração no Google Flow feita pelo Claude da extensão do Chrome; nada no Magnific. |
+| 2026-10-30 | Processo | O prompt do Chrome sai pronto do roteiro com o `prompt_chrome.py`; arquivos voltam pela pasta `Cleide/<episódio>` no Google Drive. |
